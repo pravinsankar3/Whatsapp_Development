@@ -1,1 +1,13 @@
-This the first edit in file
+This is the Whatsapp code:
+
+Author: Pravin Sankar
+
+1. Profile page code
+
+2. Chat screen code
+
+3. Last seen code
+
+4. Attachments (Image, audio, video) code
+
+5. Hiding the last seen
